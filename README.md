@@ -1,10 +1,10 @@
-# Data Science & Basic Statistics Final Project
+# Tsunami Prediction ML
 To build an ideal tsunami prediction system, suitable datasets and machine learning algorithms are crucial to produce accurate predictions. For this testing, the machine learning techniques used are of supervised type, SVM, Random Forest Classifier, Decistion Tree, Classifier, XGB Classifier, Gradient Boosting Classifier, and Logistic Regression. However, given the supervised machine learning techniques available, some testings are required to figure out the best and least favorable machine learning to implement for the dataset. As a result, the purpose of this project is to determine the most and least suitable supervised machine-learning technique for our scraped dataset. This dataset was obtained from the Kaggle website, which allows users to search for datasets to use for educational purposes, collaboration with other data scientists and machine learning experts, and even competition purposes. The original dataset contains 20 columns in which after cleaning (dropped, renamed, and encoded) is left with 15 columns, namely, Year, Month, Day, Validity, Cause, Eq Magnitude, Country, Location, Latitude, Longitude, Max Water Height (m), Tsm Magnitude (Iida), Tsunami, ECountry, ELocation.
 
 ## Group Members
-+ Felise Amore Pandiora - 2602174453 - L3BC
-+ Hilkia Kennan Latjandu - 2602174458 - L3BC
-+ Vania Agnes Djunaedy - 2602158531 - L3BC
++ Felise Amore Pandiora 
++ Hilkia Kennan Latjandu 
++ Vania Agnes Djunaedy 
 
 ## Datasets Resources : 
 + https://www.kaggle.com/datasets/raulchavez89/tsunami?select=Tsunami.csv
